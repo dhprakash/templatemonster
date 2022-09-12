@@ -140,3 +140,6 @@ https://www.rctheme.com/whmcsdemo/index.php?systpl=fasthost
 https://www.rctheme.com/demo-html/fasthost/
 https://www.webstrot.com/html/tm/lifeline/
 https://livedemo00.template-help.com/wt_prod-14585/
+https://demo.themexbd.com/html/bestin/
+https://demo.themexbd.com/html/cleanit/
+https://themes.themewild.com/lawrex/
