@@ -143,3 +143,11 @@ https://livedemo00.template-help.com/wt_prod-14585/
 https://demo.themexbd.com/html/bestin/
 https://demo.themexbd.com/html/cleanit/
 https://themes.themewild.com/lawrex/
+https://demo.joinwebs.com/loco/html-template/home-v2.html
+https://demo.joinwebs.com/loco/html-template/
+https://demo.joinwebs.com/loco/html-template/demo/
+https://themes.themewild.com/medicare/
+https://themes.themewild.com/textile/
+https://slidesigma.nyc/templatemonster/react/medsek/
+https://livedemo00.template-help.com/wt_prod-15887/
+https://tidytheme.com/tidytheme/fovida/
